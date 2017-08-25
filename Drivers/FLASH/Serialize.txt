@@ -1,0 +1,10 @@
+The package contains an example of implementation for Serialize function used 
+with SPI Controller.
+
+- Release Version 1.0 (28/12/2011)
+
+	Serialize.h (v1.0)
+	Serialize.c (v1.0)
+	
+Note: The SPI Controller refered in the source file is not commercial hardware
+device.

@@ -1,0 +1,8 @@
+Software Driver readme for SPI-NAND device
+ 
+- Release Version 1.0 (28/12/2011)
+ 
+  SPI-NAND.h  V1.0
+  SPI-NAND.c  V1.0
+ 
+Note: Tested on MT29F2G01AAAAED device

@@ -1,0 +1,4 @@
+### Target: targets/blem1
+target.app: "@apache-mynewt-core/apps/bletiny"
+target.bsp: "@apache-mynewt-core/hw/bsp/parkinson"
+target.build_profile: "optimized"
